@@ -14,7 +14,7 @@ export default function AraratGalleryTama() {
         </div>
 
         <div className="box">
-            <div className="img"><img src="../../images/tama1.jpg" alt="Ararat Gallery TAMA" /></div>
+            <div className="img"><img src={process.env.PUBLIC_URL + "/images/tama1.jpg"} alt="Ararat Gallery TAMA" /></div>
             <div className="text">
                 <p>
                 The Gallery has a unique place amongst Australia’s public galleries through its commitment 

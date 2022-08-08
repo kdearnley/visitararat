@@ -14,7 +14,7 @@ function Jward() {
                 </div>
 
                 <div className="box">
-                    <div className="img"><img src="../../images/aradale.jpeg" alt="Aradale" /></div>
+                    <div className="img"><img src={process.env.PUBLIC_URL + "/images/aradale.jpeg" }alt="Aradale" /></div>
                     <div className="text">
                         <p>
                             Aradale Mental Hospital was an Australian psychiatric hospital.

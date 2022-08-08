@@ -13,7 +13,7 @@ export default function LangiMorgala() {
             </div>
     
             <div className="box">
-                <div className="img"><img src="../../images/langimorgala3.jpg" alt="Langi Morgala" /></div>
+                <div className="img"><img src={process.env.PUBLIC_URL + "/images/langimorgala3.jpg"} alt="Langi Morgala" /></div>
                 <div className="text">
                     <p>
                     The large eclectic collection covers a wide variety of themes. Some of the individual 

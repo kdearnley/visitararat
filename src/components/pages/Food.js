@@ -15,7 +15,7 @@ function Food() {
                  <ul className="card_items">
                  <div>
             <FoodCard
-              src="images/AraratHotel2.jpg"
+              src= {process.env.PUBLIC_URL + "/images/AraratHotel2.jpg"}
               title="Ararat Hotel Cafe Bistro "
               text1="130 Barkly St, Ararat"
               text2="03 5352 2477"
@@ -24,7 +24,7 @@ function Food() {
             </div>
             <div>
             <FoodCard
-              src="images/AraratRSL.jpg"
+              src={process.env.PUBLIC_URL + "/images/AraratRSL.jpg"}
               title="Ararat RSL"
               text1="74-76 High St, Ararat"
               text2="03 5352 2794"
@@ -33,7 +33,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/BlueDuck.jpg'
+              src={process.env.PUBLIC_URL + '/images/BlueDuck.jpg'}
               title="Blue Duck Hotel"
               text1='257 Barkly St, Ararat'
               text2="03 5352 1177"
@@ -42,7 +42,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/Chally.jpg'
+              src={process.env.PUBLIC_URL + '/images/Chally.jpg'}
               title="Chally’s Bar & Bistro"
               text1='Chalambar Golf Club, Golf Links Rd, Ararat'
               text2="03 5352 4297"
@@ -53,7 +53,7 @@ function Food() {
             <ul className="card_items">
                  <div>
             <FoodCard
-              src="images/Courthouse.jpg"
+              src={process.env.PUBLIC_URL + "/images/Courthouse.jpg"}
               title="Courthouse Bar & Grill"
               text1="84 Barkly St, Ararat"
               text2="03 5352 7371"
@@ -62,7 +62,7 @@ function Food() {
             </div>
             <div>
             <FoodCard
-              src="images/DesiSwag.jpg"
+              src={process.env.PUBLIC_URL + "/images/DesiSwag.jpg"}
               title="Desi Swag"
               text1="202-204 Barkly St, Ararat"
               text2="03 5352 4259"
@@ -71,7 +71,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/KhoonThai.jpg'
+              src={process.env.PUBLIC_URL + '/images/KhoonThai.jpg'}
               title="Khoon Thai Restaurant"
               text1='234-236 Barkly St, Ararat'
               text2="0423 401 929"
@@ -80,7 +80,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/Sicilians.jpg'
+              src={process.env.PUBLIC_URL + '/images/Sicilians.jpg'}
               title="Sicilians Bar & Restaurant"
               text1='102 Barkly St, Ararat'
               text2="03 5352 2627"
@@ -91,7 +91,7 @@ function Food() {
             <ul className="card_items">
                  <div>
             <FoodCard
-              src="images/TasteOfPeking.jpg"
+              src={process.env.PUBLIC_URL + "/images/TasteOfPeking.jpg"}
               title="Taste of Peking"
               text1="157 Barkly St, Ararat"
               text2="03 5352 5886"
@@ -100,7 +100,7 @@ function Food() {
             </div>
             <div>
             <FoodCard
-              src="images/Barkly.jpg"
+              src={process.env.PUBLIC_URL + "/images/Barkly.jpg"}
               title="The Barkly Bistro"
               text1="240 Barkly St, Ararat"
               text2="0400 210 893"
@@ -119,7 +119,7 @@ function Food() {
             <ul className="card_items">
                  <div>
             <FoodCard
-              src="images/debsdiner.jpg"
+              src={process.env.PUBLIC_URL + "/images/debsdiner.jpg"}
               title="Deb’s Diner"
               text1="124 Barkly Street, Ararat"
               text2="03 5352 7530"
@@ -128,7 +128,7 @@ function Food() {
             </div>
             <div>
             <FoodCard
-              src="images/fedandbets.jpg"
+              src={process.env.PUBLIC_URL + "/images/fedandbets.jpg"}
               title="Fred & Bet’s"
               text1="101 Barkly St, Ararat"
               text2="03 5352 1002"
@@ -137,7 +137,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/foragers2.jpg'
+              src={process.env.PUBLIC_URL + '/images/foragers2.jpg'}
               title="Foragers Café"
               text1='82 Vincent St, Ararat'
               text2="0490 340 214"
@@ -146,7 +146,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/gardenslakecafe.jpg'
+              src={process.env.PUBLIC_URL + '/images/gardenslakecafe.jpg'}
               title="Gardens Lake Café"
               text1='Alexandra Gardens Park, Alexandra Ave, Ararat'
               text2="03 5352 5626"
@@ -157,7 +157,7 @@ function Food() {
             <ul className="card_items">
                  <div>
             <FoodCard
-              src="images/bakeology.jpg"
+              src={process.env.PUBLIC_URL + "/images/bakeology.jpg"}
               title="Home of Bakeology"
               text1=" 52 Barkly Street, Ararat"
               text2="03 5300 3127"
@@ -166,7 +166,7 @@ function Food() {
             </div>
             <div>
             <FoodCard
-              src="images/sede.jpg"
+              src={process.env.PUBLIC_URL + "/images/sede.jpg"}
               title="S.E.D.E Café"
               text1="96 Barkly St, Ararat"
               text2="03 5352 1205"
@@ -175,7 +175,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/vines.jpg'
+              src={process.env.PUBLIC_URL + '/images/vines.jpg'}
               title="Vines Café & Bar"
               text1='74 Barkly St, Ararat'
               text2="03 5352 1744"
@@ -184,7 +184,7 @@ function Food() {
             </div>
             <div>
              <FoodCard
-              src='images/waacks.jpg'
+              src={process.env.PUBLIC_URL + '/images/waacks.jpg'}
               title="Waack’s Bakery"
               text1='172/168 Barkly St, Ararat'
               text2="03 5352 1618"

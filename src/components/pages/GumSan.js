@@ -13,7 +13,7 @@ export default function GumSan() {
             </div>
     
             <div className="box">
-                <div className="img"><img src="../../images/gumsan3.jpg" alt="Gum San" /></div>
+                <div className="img"><img src={process.env.PUBLIC_URL + "/images/gumsan3.jpg"} alt="Gum San" /></div>
                 <div className="text">
                     <p>
                     Gum San Chinese Heritage Centre tells the story of the Chinese miners and their arduous 

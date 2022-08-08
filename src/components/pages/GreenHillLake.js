@@ -13,7 +13,7 @@ export default function GreenHillLake() {
         </div>
 
         <div className="box">
-            <div className="img"><img src="../../images/green-hill-lake2.jpeg" alt="Ararat Gallery TAMA" /></div>
+            <div className="img"><img src={process.env.PUBLIC_URL + "/images/green-hill-lake2.jpeg"} alt="Ararat Gallery TAMA" /></div>
             <div className="text">
                 <p>
                 Situated 2.5 kilometres east of Ararat on the Western Highway, Green Hill Lake is a popular 
