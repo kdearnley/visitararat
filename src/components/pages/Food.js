@@ -37,7 +37,7 @@ function Food() {
               title="Blue Duck Hotel"
               text1='257 Barkly St, Ararat'
               text2="03 5352 1177"
-              url='http://theblueduckhotelararat.com.au/ '
+              url='https://www.facebook.com/blueduckhotelararat'
             />
             </div>
             <div>
@@ -46,7 +46,7 @@ function Food() {
               title="Chally’s Bar & Bistro"
               text1='Chalambar Golf Club, Golf Links Rd, Ararat'
               text2="03 5352 4297"
-              url='https://www.challysbarandbistro.com.au/ '
+              url='https://www.challysbarandbistro.com.au/'
             />
             </div>
             </ul>
@@ -57,7 +57,7 @@ function Food() {
               title="Courthouse Bar & Grill"
               text1="84 Barkly St, Ararat"
               text2="03 5352 7371"
-              url='https://courthousebarandgrill.com.au/ '
+              url='https://courthousebarandgrill.com.au/'
             />
             </div>
             <div>
@@ -66,7 +66,7 @@ function Food() {
               title="Desi Swag"
               text1="202-204 Barkly St, Ararat"
               text2="03 5352 4259"
-              url='https://desiswagvictoria.com/ '
+              url='https://desiswagvictoria.com/'
             />
             </div>
             <div>
@@ -75,7 +75,7 @@ function Food() {
               title="Khoon Thai Restaurant"
               text1='234-236 Barkly St, Ararat'
               text2="0423 401 929"
-              url='https://www.khoonthaiararat.com.au/ '
+              url='https://www.khoonthaiararat.com.au/'
             />
             </div>
             <div>
@@ -84,7 +84,7 @@ function Food() {
               title="Sicilians Bar & Restaurant"
               text1='102 Barkly St, Ararat'
               text2="03 5352 2627"
-              url='https://sicilians.com.au/ '
+              url='https://sicilians.com.au/'
             />
             </div>
             </ul>
@@ -95,7 +95,7 @@ function Food() {
               title="Taste of Peking"
               text1="157 Barkly St, Ararat"
               text2="03 5352 5886"
-              url='www.facebook.com/Taste-of-Peking-Chinese-restaurant'
+              url='https://www.facebook.com/Taste-of-Peking-Chinese-restaurant-豐澤園-1621477978093371/'
             />
             </div>
             <div>
@@ -104,7 +104,7 @@ function Food() {
               title="The Barkly Bistro"
               text1="240 Barkly St, Ararat"
               text2="0400 210 893"
-              url='https://www.facebook.com/thebarklybistrobaraccommodation/'
+              url='https://www.facebook.com/thebarklyararat'
             />
             </div>
             </ul>
@@ -123,7 +123,7 @@ function Food() {
               title="Deb’s Diner"
               text1="124 Barkly Street, Ararat"
               text2="03 5352 7530"
-              url='https://www.facebook.com/pages/category/Coffee-Shop/Debs-Diner-439555969440428/ '
+              url='https://www.facebook.com/pages/category/Coffee-Shop/Debs-Diner-439555969440428/'
             />
             </div>
             <div>
@@ -132,7 +132,7 @@ function Food() {
               title="Fred & Bet’s"
               text1="101 Barkly St, Ararat"
               text2="03 5352 1002"
-              url='https://www.facebook.com/FredandBets/ '
+              url='https://www.facebook.com/FredandBets/'
             />
             </div>
             <div>
@@ -161,7 +161,7 @@ function Food() {
               title="Home of Bakeology"
               text1=" 52 Barkly Street, Ararat"
               text2="03 5300 3127"
-              url='https://www.facebook.com/homeofbakeology/?rf=188262067858020 '
+              url='https://www.facebook.com/homeofbakeology/?rf=188262067858020'
             />
             </div>
             <div>
@@ -170,7 +170,7 @@ function Food() {
               title="S.E.D.E Café"
               text1="96 Barkly St, Ararat"
               text2="03 5352 1205"
-              url='https://www.facebook.com/sedecafe96/ '
+              url='https://www.facebook.com/sedecafe96/'
             />
             </div>
             <div>
@@ -188,7 +188,7 @@ function Food() {
               title="Waack’s Bakery"
               text1='172/168 Barkly St, Ararat'
               text2="03 5352 1618"
-              url='https://waacksbakery.com.au/ '
+              url='https://waacksbakery.com.au/'
             />
             </div>
             </ul>
