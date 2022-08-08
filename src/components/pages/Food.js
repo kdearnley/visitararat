@@ -119,7 +119,7 @@ function Food() {
             <ul className="card_items">
                  <div>
             <FoodCard
-              src={process.env.PUBLIC_URL + "/images/debsdiner.jpg"}
+              src={process.env.PUBLIC_URL + "/images/debsdiner2.jpg"}
               title="Deb’s Diner"
               text1="124 Barkly Street, Ararat"
               text2="03 5352 7530"
