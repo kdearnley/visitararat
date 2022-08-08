@@ -30,7 +30,7 @@ function Cards() {
               path='/gum-san'
             />
             <CardItem
-              src={process.env.PUBLIC_URL + '/images/LangiMorgal5.jpg'}
+              src={process.env.PUBLIC_URL + '/images/LangiMorgala5.jpg'}
               text='Langi Morgala: Regional History'
               label='History'
               path='/langi-morgala'
